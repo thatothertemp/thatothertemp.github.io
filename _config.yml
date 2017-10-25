@@ -1,17 +1,14 @@
-# Welcome to Jekyll!
-#
-
 # Site settings
-title: Spectral
+title: TEDxNMIMSShirpur
 description: |
   Another fine responsive  
   site template freebie  
   crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+owner: TEDxNMIMSShirpur
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: tedxnmimsshirpur@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://thatothertemp.github.io" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
