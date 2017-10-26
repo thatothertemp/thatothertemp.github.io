@@ -1,8 +1,7 @@
 # Site settings
 title: TEDxNMIMSShirpur
 description: |
-  An international platform at the grassroots level
-  x=Independently Hosted TED event  
+  See you in March, 2018
 owner: TEDxNMIMSShirpur
 first_published: 2016 # if migrating another site, the year of your first publish
 email: tedxnmimsshirpur@gmail.com
@@ -14,7 +13,7 @@ social:
   linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
   google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  email: tedxnmimsshirpur@gmail.com
   #flickr:
   #instagram:
   #youtube-square:
