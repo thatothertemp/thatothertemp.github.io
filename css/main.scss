@@ -32,6 +32,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		grid: ( gutters: 1.5em )
 	));
 
+/* Added in experiment */
+	textarea {
+		resize:none
+	}
 /* Basic */
 
 	@-ms-viewport {
